@@ -21,6 +21,8 @@ Collection of O-RAN research papers
 [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/10.1145/3570361.3592493) (Mobicom'23)
 Janus, Microsoft's programmable RAN platform
 
+[Enabling Resilience in Virtualized RANs with Atlas](https://dl.acm.org/doi/10.1145/3570361.3613276) (Mobicom'23)
+
 [Conflict Mitigation Framework and Conflict Detection in O-RAN Near-RT RIC](https://ieeexplore.ieee.org/document/10121578/) (IEEE Communications Magazine)
 
 [EdgeRIC: Empowering Real-time Intelligent Optimization and Control in NextG Cellular Networks](https://www.usenix.org/conference/nsdi24/presentation/ko) (NSDI'24)
