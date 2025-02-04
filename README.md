@@ -41,5 +41,8 @@ Janus, Microsoft's programmable RAN platform
 
 [Security Testing The O-RAN Near-Real Time RIC & A1 Interface](https://dl.acm.org/doi/10.1145/3643833.3656118) (WiSec'24)
 
+# Other
+[The future of the industrial AI edge is cellular](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/Future_Enterprise_Edge.pdf) (HotMobile'25)
+
 
 
