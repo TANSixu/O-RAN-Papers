@@ -11,6 +11,8 @@ Collection of O-RAN research papers
 
 [OpenRAN Gym: AI/ML development, data collection, and testing for O-RAN on PAWR platforms](https://dlnext.acm.org/doi/10.1016/j.comnet.2022.109502)
 
+[CCI xG Testbed: An O-RAN Based Platform for Future Wireless Network Experimentation](https://ieeexplore.ieee.org/abstract/document/10858200)
+
 
 
 # Infra
